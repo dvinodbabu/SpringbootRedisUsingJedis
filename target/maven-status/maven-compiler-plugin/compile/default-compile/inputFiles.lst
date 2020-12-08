@@ -1,0 +1,6 @@
+/home/vinod/Development/Java/SpringbootRedisUsingJedis/src/main/java/org/jcg/springboot/redis/SpringbootRedis.java
+/home/vinod/Development/Java/SpringbootRedisUsingJedis/src/main/java/org/jcg/springboot/redis/config/RedisConfig.java
+/home/vinod/Development/Java/SpringbootRedisUsingJedis/src/main/java/org/jcg/springboot/redis/dao/Employeerepo.java
+/home/vinod/Development/Java/SpringbootRedisUsingJedis/src/main/java/org/jcg/springboot/redis/service/EmployeeService.java
+/home/vinod/Development/Java/SpringbootRedisUsingJedis/src/main/java/org/jcg/springboot/redis/controller/EmployeeController.java
+/home/vinod/Development/Java/SpringbootRedisUsingJedis/src/main/java/org/jcg/springboot/redis/model/Employee.java
