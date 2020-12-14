@@ -42,7 +42,7 @@ public class EmployeeService implements Employeerepo {
 	// Find all employees operation.
 	@Override
 	public Map<String, Employee> findAll() {
-		return hashOperations.GEentries(EMPLOYEE_CACHE);
+		return hashOperations.entries(EMPLOYEE_CACHE);
 	}
 
 	// Delete employee by id operation.

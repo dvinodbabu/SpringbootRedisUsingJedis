@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Workspace/Jedis/Jedis.iml" filepath="$PROJECT_DIR$/../Workspace/Jedis/Jedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Workspace/RabbitMqDemo/RabbitMqDemo.iml" filepath="$PROJECT_DIR$/../Workspace/RabbitMqDemo/RabbitMqDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootRedisUsingJedis.iml" filepath="$PROJECT_DIR$/SpringbootRedisUsingJedis.iml" />
+    </modules>
+  </component>
+</project>
